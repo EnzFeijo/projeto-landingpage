@@ -11,15 +11,14 @@
     Esse projeto foi desenvolvido com o auxilio de Gabriel Dias do Canal Além do Código.
   </p>
   
-  <a href="https://enzfeijo.github.io/projeto-android/" target="_blank" rel="external"> Acesse o Projeto </a>
+  <a href="https://enzfeijo.github.io/projeto-landingpage/" target="_blank" rel="external"> Acesse o Projeto </a>
 </div>
 
 <!-- ABOUT THE PROJECT -->
 ## Sobre o Projeto
 
-![githubandroid1](https://user-images.githubusercontent.com/98236401/161452689-3a7beedd-a78d-4070-9ef1-44e7d51320c1.gif)
+![Animação-logofy](https://user-images.githubusercontent.com/98236401/191570346-26a9d59a-345c-4eb8-828f-f48d289c2858.gif)
 
-![githubandroid2](https://user-images.githubusercontent.com/98236401/161452693-c79e425e-05d8-4111-b335-8f4811d57080.gif)
 
 Esse projeto foi desenvolvido com o intuito de treinamento e revisão de alguns conceitos em HTML e CSS, visando sempre o aprendizado.
 
