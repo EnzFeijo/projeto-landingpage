@@ -47,4 +47,4 @@ CSS:
 
 ### Desenvolvido por:
 
-- Enzo Feijó e Gabriel Dias
+- Enzo Feijó
